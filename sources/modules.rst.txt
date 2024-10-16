@@ -1,0 +1,29 @@
+Sphinx Documentation
+====================
+Date: May 6, 2022
+
+Contents:
+1. Introduction
+2. Purpose
+   - How to create Sphinx documentation?
+   - How to convert Python files to HTML?
+   - How to create GitHub.io?
+   - How to upload?
+3. How to access documentation
+
+Introduction
+
+The Moildev library is a collection of functions that support the development of fisheye
+drawing applications based on the Python programming language. You can visit this
+documentation to explore this library.
+
+Each project we do has an important role for a documented work history, where the
+document must be archived as evidence of the implementation of the project that has been
+developed through various applications.
+
+We archive this documentation digitally to make it easier for users to better understand the
+concepts of the Moildev library and to prevent the loss of the files they need at any time.
+
+.. toctree::
+   :maxdepth: 4
+
